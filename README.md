@@ -39,7 +39,7 @@ EPUB Creator is a user-friendly Streamlit application that allows you to easily 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/epub-creator.git
+git clone https://github.com/your-username/Epub_Book.git
 cd epub-creator
 ```
 
@@ -52,7 +52,7 @@ pip install streamlit ebooklib Pillow markdown
 
 Run the Streamlit application:
 ```bash
-streamlit run epub_creator.py
+streamlit run epub.py
 ```
 
 ### Step-by-Step Guide
